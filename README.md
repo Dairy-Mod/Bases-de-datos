@@ -38,17 +38,6 @@ Antes de comenzar, primero completa estas tareas:
 5. Publica tu rama `git push origin evidencias`
 > **`git push`**. Un `git push` **normalmente se utiliza para publicar tus cambios a remoto**, <ins>en este caso lo único que estamos probando es publicar tu nueva rama para que se pueda visualizar remotamente</ins>
 
-## Ejercicios
-
-En esta sección encuentras los atajos de los READMEs de los ejercicios, cada ejercicio tendrá un README con las instrucciones esperadas 😉
-| Módulo  | Link    |
-| ------- | ------- |
-| Fundamentos Web | [README](/fundamentos-web/README.md) |
-| Fundamentos JS | [README](/javascript/README.md) |
-| Introducción con Angular | [README](/angular/README.md) |
-
-## Notas Importantes ‼️
-<h4>Durante el curso cada semana actualiza tu fork con el código <code>master</code> del repositorio oficial</h4>
 
 ### Actualizar tu Fork
 
