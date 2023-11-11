@@ -5,7 +5,7 @@
 
 Antes de comenzar, primero completa estas tareas:
 
-### Haz un `fork` del [portafolio de evidencias](https://github.com/angx7/Bases-de-datos)
+### Haz un `fork` del [Bases de datos](https://github.com/angx7/Bases-de-datos)
 
 > **Fork**. Un **fork** es una copia independiente de un repositorio, en este curso <ins>lo vamos a utilizar para que tengas tu portafolio de evidencias en tu cuenta personal de github y puedas trabajar individualmente los ejercicios</ins>.
 
