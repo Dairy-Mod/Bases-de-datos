@@ -9,7 +9,7 @@ Antes de comenzar, primero completa estas tareas:
 
 > **Fork**. Un **fork** es una copia independiente de un repositorio, en este curso <ins>lo vamos a utilizar para que tengas tu portafolio de evidencias en tu cuenta personal de github y puedas trabajar individualmente los ejercicios</ins>.
 
-1. Visita el [link](https://github.com/tlamabyte-code/angular-portafolio-ieca)
+1. Visita el [link](https://github.com/angx7/Bases-de-datos)
 2. Presiona el botón `Fork` lo encuentras en la parte superior derecha
 3. Presiona el botón `Create fork` y listo ✅
 
@@ -41,7 +41,7 @@ Antes de comenzar, primero completa estas tareas:
 
 ### Actualizar tu Fork
 
-Quizá te preguntes __¿Cómo es que puedo actualizar mi `fork` 🤔?__, <ins>durante el curso será necesario ya que el repositorio oficial irá actualizándose con nuevos ejercicios</ins>, cuando digo que el repositorio estará actualizándose me refiero a la rama `master` del [repositorio oficial](https://github.com/tlamabyte-code/angular-portafolio-ieca)
+Quizá te preguntes __¿Cómo es que puedo actualizar mi `fork` 🤔?__, <ins>durante el curso será necesario ya que el repositorio oficial irá actualizándose con nuevos ejercicios</ins>, cuando digo que el repositorio estará actualizándose me refiero a la rama `master` del [repositorio oficial](https://github.com/angx7/Bases-de-datos)
 
 1. Si es la **primera vez que tienes que actualizar el `fork` tendrás que realizar algunas configuraciones de tu `fork` utilizando la línea de comandos de `git`**, <ins>si ya configuraste tu `upstream` entonces puedes saltar al paso 4</ins>.
 2. Con una `CMD` <sub>(windows)</sub> o `Terminal` <sub>(linux)</sub> dirígete a la ubicación de tu repositorio
